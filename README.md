@@ -31,6 +31,8 @@ yarn
 
 # 开发时构建
 npm dev
+cd mock
+node index.js
 
 # 打包构建
 npm build
